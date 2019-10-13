@@ -12,14 +12,6 @@ the CSRF token cookie will be submitted and in the form body, the CSRF token val
 The web page that accepts the form submission, obtain the CSRF token received in the cookie and in the message body. 
 If Validation Success, show success message. If not show error message.
 
-## Download and Installation
-
-###### Clone the project to the local Machine
-
-```
-git clone https://github.com/AnuradhaSD/CSRF_DoubleSubmitCookiePattern.git
-
-```
 ### Run application
 
 - Application Implemented Using Eclipse IDE
